@@ -1,0 +1,10 @@
+⭠ [2B60] - bar with upward arrow 
+⭡ [2B61] - superscript L subsript n 
+⭢ [2B62] - outlined F
+⭣ [2B63] - outlined T
+⭤ [2B64] - outlined lock
+
+⮀ [2B80] - right arrow (filled)
+⮁ [2B81] - right arrow (outline)
+⮂ [2B82] - left arrow (filled)
+⮃ [2B83] - left arrow (outline)

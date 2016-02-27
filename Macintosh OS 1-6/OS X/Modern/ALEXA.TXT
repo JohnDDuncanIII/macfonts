@@ -1,0 +1,32 @@
+The enclosed font includes the following information:
+
+Alexandria 1.0 Copr.1990 by Hank Gillette.  This font is free.
+Version # 001.001
+
+This font has had certain errors of construction corrected.
+
+
+This is the on-line description from the Macintosh file libraries 
+for this font.
+
+Subj:  Alexandria (Type 1)
+Date:  July 16, 1990
+From:  Tom Licht
+
+File:  Alexandria.sit (24301 bytes)
+DL time (28800 baud): < 1 minute
+Download count: 594
+
+AUTHOR:    Hank Gillette
+EQUIPMENT: Any Mac, Post Script Printer or ATM
+NEEDS:     Stuffit
+LIBRARY:   MDP:Type 1 Fonts Vol. 1
+
+Keywords: SLAB APPLE ATHENS
+
+A type 1 slab-serif font for the Mac.  This font is based on the Apple
+bit-mapped font Athens, so if you need a big, ugly slab-serif font, this is
+the font for you!  Free, of course.
+
+This file was checked for viruses with Disinfectant v2.0 as well as other
+virus checking methods.

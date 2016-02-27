@@ -1,0 +1,37 @@
+Memory: 
+CPU: 
+Temp: 
+Stop: 
+Window Layout: 
+Floating: 
+Tile: 
+Window Layout: 
+Message Box: 
+Prompt: 
+Space Invader: 
+Ghost: 
+Mail: 
+Volume 2 bars: 
+Song: 
+Pause: 
+Time: 
+World: 
+Battery Full: 
+Fan Speed: 
+Floppy: 
+Up Arrow: 
+Down Arrow: 
+Window Layout: 
+Fully Charged: 
+Euro/Pound: 
+Finder: 
+Battery High: 
+Battery Med High: 
+Battery Mid: 
+Battery Mid Low: 
+Battery Low: 
+Battery Almost Dead:  
+Volume 3 Bars: ¡
+Volume 1 Bar: ¢
+Volume 0 bars: £
+Volume Hollow: ¤
