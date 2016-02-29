@@ -37,8 +37,6 @@ Screenshots
 ***
 ![twiggy](Screenshots/twiggy_standard.png)
 ***
-![obscure](Screenshots/obscure.png)
-***
 ![espy_sans](Screenshots/espy_sans.png)
 ***
 ![espy_sans_bold](Screenshots/espy_sans_bold.png)
