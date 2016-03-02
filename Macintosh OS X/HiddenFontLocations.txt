@@ -1,0 +1,8 @@
+/System/Library/Frameworks/Carbon.framework/Frameworks/Ink.framework/Resources/AppleCasual.dfont
+/System/Library/Fonts/.Aqua Kana
+/System/Library/Fonts/Aqua Kana.ttc
+/System/Library/Fonts/.Aqua Kana Bold
+/System/Library/Fonts/Aqua Kana Bold.ttc
+/System/Library/Fonts/.Keyboard
+/System/Library/Fonts/Keyboard.ttf
+/System/Library/Fonts/LastResort.ttf
