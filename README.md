@@ -69,6 +69,11 @@ Screenshots (TrueType/AntiAliased)
 ![OSX](Screenshots/OSX/osx_standard.png)
 ***
 
+Screenshots (Branding)
+-------------------------------
+![branding](Screenshots/branding.png)
+***
+
 Screenshots (Missing)
 -------------------------------
 ![newton](Screenshots/Missing/casual_charset.gif)
