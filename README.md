@@ -69,6 +69,10 @@ Screenshots (TrueType/AntiAliased)
 ![OSX](Screenshots/OSX/standard.png)
 ***
 
+Screenshots (Missing)
+![newton](Screenshots/Missing/casual_charset.gif)
+***
+
 Essential Programs
 -------------------------------
 https://sourceforge.net/projects/rezilla/
