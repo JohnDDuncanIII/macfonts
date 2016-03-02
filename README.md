@@ -66,10 +66,11 @@ Screenshots (TrueType/AntiAliased)
 ***
 ![AA_fun](Screenshots/OS9/fun.png)
 ***
-![OSX](Screenshots/OSX/standard.png)
+![OSX](Screenshots/OSX/osx_standard.png)
 ***
 
 Screenshots (Missing)
+-------------------------------
 ![newton](Screenshots/Missing/casual_charset.gif)
 ***
 
