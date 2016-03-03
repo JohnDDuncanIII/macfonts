@@ -1,6 +1,6 @@
 Classic Macintosh Typefaces
 -------------------------------
-The majority of the work I did on this project is contained in folders Macintosh OS 1-6 and Macintosh OS 7.5_eworld. Scroll down for screenshots of the files that I converted (mostly resource fork fonts between the pre-release Twiggy Mac and System 7.5/eWorld). This project will provide every typeface that Apple has used for use on your Apple Macinosh computer. Most bitmap typefaces were created by Susan Kare (or Bill Atkinson/Andy Hertzfeld) for Apple in 1983/1984 and are still under Apple copyright. I do not claim to own any typeface hosted here. I have simply converted them for use in modern times. 
+The majority of the work I did on this project is contained in folders Macintosh OS 1-6 and Macintosh OS 7.5_eworld. Scroll down for screenshots of the files that I converted (mostly resource fork fonts between the pre-release Twiggy Mac and System 7.5/eWorld). This project will provide every typeface that Apple has shipped for use on your Apple Macinosh computer. Most bitmap typefaces were created by Susan Kare (or Bill Atkinson/Andy Hertzfeld) for Apple in 1983/1984 and are still under Apple copyright. I do not claim to own any typeface hosted here. I have simply converted them for use on modern computers.
 
 The 'branding' files have sitting around on my HDD for awhile (awaiting the completion of the main project). Setup Assistant is the only version of Apple Garamond (that I know of) that apple has shipped. Converted from Assistant.rsrc from OS X 10.1.
 
@@ -58,6 +58,8 @@ Screenshots (Bitmaps)
 ![times](Screenshots/OS1-7.5/times.png)
 ***
 ![toronto](Screenshots/OS1-7.5/toronto.png)
+***
+![courier](Screenshots/OS1-7.5/courier.png)
 ***
 
 Screenshots (TrueType/AntiAliased)
