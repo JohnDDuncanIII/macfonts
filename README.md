@@ -37,6 +37,8 @@ Screenshots (Bitmaps)
 ***
 ![famous](Screenshots/OS1-7.5/famous.png)
 ***
+![boston](Screenshots/OS1-7.5/boston.png)
+***
 ![twiggy](Screenshots/OS1-7.5/twiggy_standard.png)
 ***
 ![espy_sans](Screenshots/OS1-7.5/espy_sans.png)
@@ -80,6 +82,8 @@ Screenshots (Missing)
 -------------------------------
 ![newton](Screenshots/Missing/casual_charset.gif)
 ***
+![sony](Screenshots/Missing/sony_system_pre.png)
+***
 
 Essential Programs
 -------------------------------
@@ -114,6 +118,8 @@ Essential People
 [Susan Kare](http://www.kare.com/), [Andy](http://www.folklore.org/StoryView.py?project=Macintosh&story=Busy_Being_Born,_Part_2.txt) [Hertzfeld](http://www.folklore.org/ProjectView.py?project=Macintosh&index=10&characters=Bruce+Horn&detail=Show+Everything), and [Bill Atkinson](http://www.billatkinson.com/)
 
 [Dog Cow and macintosh1984](http://macgui.com/forums/software-sector/twiggy-mac-prototypes/t.1823_1/) from the Mac GUI forums for work their excellent work on the Twiggy
+
+André G. Isaak from the comp.sys.mac.vintage USENET newsgroup for providing invaluable insight and for providing the Icelandic Apple Developer Connection debug Developer CD which contained Chas. Maurer's 'Boston' typeface
 
 [Helge Horch](http://web.archive.org/web/20060901175940/http://home.netsurf.de/helge.horch/squeak/cream.html), [Bob Flegal](http://squeak-dev.squeakfoundation.narkive.com/Rs0CrNOk/font-history), and [Alan Kay](http://www.freudenbergs.de/bert/publications/Ingalls-2014-Smalltalk78.pdf) for their work on Cream/Smalltalk/etc.
 
