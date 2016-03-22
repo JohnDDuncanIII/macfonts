@@ -31,6 +31,8 @@ Screenshots (Bitmaps)
 -------------------------------
 ![obscure](Screenshots/OS1-7.5/obscure.png)
 ***
+![rare](Screenshots/OS1-7.5/rare.png)
+***
 ![fun](Screenshots/OS1-7.5/fun.png)
 ***
 ![art](Screenshots/OS1-7.5/art.png)
@@ -39,7 +41,9 @@ Screenshots (Bitmaps)
 ***
 ![boston](Screenshots/OS1-7.5/boston.png)
 ***
-![twiggy](Screenshots/OS1-7.5/twiggy_standard.png)
+![timesroman](Screenshots/OS1-7.5/timesroman.png)
+***
+![helvetica](Screenshots/OS1-7.5/helvetica.png)
 ***
 ![espy_sans](Screenshots/OS1-7.5/espy_sans.png)
 ***
