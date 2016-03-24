@@ -59,6 +59,8 @@ Screenshots (Bitmaps)
 ***
 ![new_york](Screenshots/OS1-7.5/new_york.png)
 ***
+![new_york](Screenshots/OS1-7.5/symbol.png)
+***
 ![palatino](Screenshots/OS1-7.5/palatino.png)
 ***
 ![times](Screenshots/OS1-7.5/times.png)
