@@ -88,7 +88,7 @@ Screenshots (Missing)
 -------------------------------
 ![newton](Screenshots/Missing/casual_charset.gif)
 ***
-![newton_system](Screenshots/Missing/newton.png)
+![newton_system](Screenshots/Missing/newton_system.png)
 ***
 ![sony](Screenshots/Missing/sony_system_pre.png)
 ***
